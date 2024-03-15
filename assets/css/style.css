@@ -1,0 +1,77 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+nav {
+  background-color: #e83e8c;
+}
+
+h1 {
+  color: #707070;
+  font-size: 35px;
+  line-height: 47px;
+  font-weight: 700;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 40px;
+  line-height: 55px;
+  font-weight: 700;
+}
+
+h5 {
+  color: #373a3c;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 700;
+}
+footer {
+  background-color: #e83e8c;
+  padding: 58px 40px;
+}
+
+.icons-section {
+  background-color: #17a2b8;
+  padding: 54px 0;
+}
+
+.py-40 {
+  padding: 40px 0px;
+}
+
+.px-40 {
+  padding: 0 40px;
+}
+
+.p-card {
+  color: #373a3c;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.list-text {
+  color: #373a3c;
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: 400;
+}
+
+.text-link {
+  color: #1c7cd5;
+  font-size: 10px;
+  line-height: 15px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.fa-brands {
+  color: #ffffff;
+  font-size: 50px;
+}
+
+.container {
+  max-width: 1040px;
+}
